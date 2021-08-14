@@ -5,20 +5,20 @@ These are a collection of resources around the changing nature of themes in Word
 Please create an issue to add to this list of every growing resources.
 
 ## General learning resources
-- [Full site editing learning resources](https://fullsiteediting.com/)
+- [Full site editing learning resources - Carolina Nymark](https://fullsiteediting.com/)
 - [ThemeShaper resources](https://themeshaper.com/2021/07/13/resources-for-block-theme-development/)
 - [Create block theme](https://developer.wordpress.org/block-editor/how-to-guides/themes/create-block-theme/)
 
 ## Overviews
 - [Themes roundup](https://make.wordpress.org/themes/tags/gutenberg-themes-roundup/)
 - [Block theme overview](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/0)
-- [Full site editing primer](https://richtabor.com/full-site-editing/)
+- [Full site editing primer - Rich Tabor](https://richtabor.com/full-site-editing/)
 
 ## Block supports
 - [List of block supports](https://ephemeralthemes.com/block-supports/)
 
 ## Styles/theme.json
-- [Global styles + Customization](https://themeshaper.com/2021/07/12/universal-themes-customization/)
+- [Global styles + Customization - ThemeShaper](https://themeshaper.com/2021/07/12/universal-themes-customization/)
 - [Theme.json dev notes](https://make.wordpress.org/core/2021/06/25/introducing-theme-json-in-wordpress-5-8/)
 
 ## Block templates
