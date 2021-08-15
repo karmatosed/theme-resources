@@ -14,8 +14,9 @@ Please create an issue to add to this list of every growing resources.
 - [Block theme overview](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/0)
 - [Full site editing primer - Rich Tabor](https://richtabor.com/full-site-editing/)
 
-## Block supports
-- [List of block supports](https://ephemeralthemes.com/block-supports/)
+## Lexicons and lists
+- [Lexicon of terms: Ephermeral Themes](https://ephemeralthemes.com/lexicon/)
+- [List of block supports : Ephermeral Themes](https://ephemeralthemes.com/block-supports/)
 
 ## Styles/theme.json
 - [Global styles + Customization - ThemeShaper](https://themeshaper.com/2021/07/12/universal-themes-customization/)
