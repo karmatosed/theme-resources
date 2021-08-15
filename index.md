@@ -2,6 +2,14 @@
 
 These are a collection of resources around the changing nature of themes in WordPress. This is maintained as part of the project I am exploring at [Ephermeral themes](https://ephemeralthemes.com/)
 
+Topics that are also going to be included here will be:
+
+- Full site editing
+- Patterns
+- Templates
+- Design tools
+- ... and more!
+
 Please create an issue to add to this list of every growing resources.
 
 ## General learning resources
